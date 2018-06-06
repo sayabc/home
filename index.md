@@ -2,6 +2,13 @@
 layout: default
 ---
 
+
+### 我的笔记
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
