@@ -27,8 +27,8 @@ timezone: Asia/Shanghai
 encoding: utf-8 # default
 
 # pagination
-# paginate: 1
-# paginate_path: "page/:num/"
+paginate: 1
+paginate_path: "page/:num/"
 
 # Build settings
 markdown: kramdown
